@@ -1,0 +1,73 @@
+---
+title: "Lia Capper"
+image: "lia.jpg"
+links:
+  - label: LinkedIn
+    url: "https://www.linkedin.com/in/lia-c-3925a4141/"
+  - label: Curriculum Vitae
+    url: embed src="https://yourusername.github.io/filename.pdf" width="100%" height="850px"/
+  - label: GitHub
+    url: "https://github.com/LiaCapper/Lia-Capper_CV"
+  - label: Email
+    url: "mailto:lia.capper@gmail.com"
+theme: "postcards.css"
+site: distill::distill_website
+output:
+  postcards::trestles
+---
+ 
+# Summary
+Ambitious student pursuing a Bachelor of Science with Honours in Psychology. Skilled in statistics, mathematics, and psychological research methods, with great communication skills. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings
+
+# Skills
+
+* Strong mathematical aptitude.
+* Data gathering and organization.
+* Experience with JAMOVI, SPSS, and Excel.
+* Communication skills, including written.
+* Enthusiastic.
+* Fast learner.
+* Works well in a team, with strong leadership skills when needed.
+* Decision making skills.
+* Currently hold a full New Zealand drivers license and own a car.
+
+
+
+# Education and Training
+
+
+
+**Victoria University of Wellington**
+
+Bachelor of Science Double Majoring in Mathematics and Psychology, *2018-2020*.
+
+
+Bachelor of Science with Honours Majoring in Psychology, *2021-Current*.
+
+
+
+**Hagley College**
+
+High School Diploma, *2013-2017*.
+
+
+
+# Experience
+
+
+
+**NumberWorks’nWords Kilbirnie**
+
+Math Tutor, *2018-Current*.
+
+
+
+**Honey Café**
+
+Barista, *2016-2018*.
+
+
+
+**PMP Distributors**
+
+Paper Deliverer, *2013-2014*.
