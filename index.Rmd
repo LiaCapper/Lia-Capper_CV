@@ -16,10 +16,20 @@ output:
   postcards::trestles
 ---
  
+---
+
 # Summary
+
+---
+
 Ambitious student pursuing a Bachelor of Science with Honours in Psychology. Skilled in statistics, mathematics, and psychological research methods, with great communication skills. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings
 
+
+---
+
 # Skills
+
+---
 
 * Strong mathematical aptitude.
 * Data gathering and organization.
@@ -31,43 +41,58 @@ Ambitious student pursuing a Bachelor of Science with Honours in Psychology. Ski
 * Decision making skills.
 * Currently hold a full New Zealand drivers license and own a car.
 
-
+---
 
 # Education and Training
 
-
+---
 
 **Victoria University of Wellington**
 
-Bachelor of Science Double Majoring in Mathematics and Psychology, *2018-2020*.
+|        **2018-2020**: Bachelor of Science Double Majoring in Mathematics and Psychology.
 
 
-Bachelor of Science with Honours Majoring in Psychology, *2021-Current*.
+|        **2021-Current**: Bachelor of Science with Honours Majoring in Psychology.
 
 
+
+
+\
 
 **Hagley College**
 
-High School Diploma, *2013-2017*.
+|        **2013-2017**: High School Diploma.
 
-
+---
 
 # Experience
 
-
+---
 
 **NumberWorks’nWords Kilbirnie**
 
-Math Tutor, *2018-Current*.
 
+**Math Tutor**, *2018-Current *
 
+* Instruct students and support understanding of math concepts.
+* Deliver effective math tutoring for students from year 1 through to year 13.
+* Contribute to the organisation and planning of the individualised lessons.
+* Support students in achieving their goals in NCEA, whether that be passing or achieving with excellence
+
+\
 
 **Honey Café**
 
-Barista, *2016-2018*.
+**Barista**, *2016-2018*
 
+* Prepared and served hot and cold beverages such as coffee, espresso drinks, blended coffees, and teas.
+* Managed weekend lunch rush with efficient, level-headed customer service.
+* Received and accurately processed customer payments.
 
+\
 
 **PMP Distributors**
 
-Paper Deliverer, *2013-2014*.
+**Paper Deliverer**, *2013-2014*
+
+* Folded and delivered pamphlets, the newspaper, etc. three times a week.
