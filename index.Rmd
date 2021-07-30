@@ -22,7 +22,7 @@ output:
 
 ---
 
-Ambitious student pursuing a Bachelor of Science with Honours in Psychology. Skilled in statistics, mathematics, and psychological research methods, with great communication skills. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings
+Ambitious student working to complete a Bachelor of Science with Honours at the end of 2021. Skilled in statistics, mathematics, and psychological research methods, with great communication skills. Adaptable and driven with strong work ethic and ability to thrive in team-based or individually motivated settings. Currently hold a full New Zealand driver’s license and own a car.
 
 
 ---
@@ -33,7 +33,8 @@ Ambitious student pursuing a Bachelor of Science with Honours in Psychology. Ski
 
 * Strong mathematical aptitude.
 * Data gathering and organization.
-* Experience with JAMOVI, SPSS, and Excel.
+* Experience with statistical software such as JAMOVI, SPSS, and Excel.
+*	Proficient in the Microsoft Suite
 * Communication skills, including written.
 * Enthusiastic.
 * Fast learner.

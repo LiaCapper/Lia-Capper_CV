@@ -2,9 +2,6 @@
 title: "About"
 description: |
   Curriculum Vitae for Lia Capper. 
-  \
-  \
-  Created for an assessment for the course PSYC447 at Victoria University of Wellington
 ---
 
 ```{r setup, include=FALSE}
