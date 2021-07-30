@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/lia-c-3925a4141/"
   - label: Curriculum Vitae
-    url: /ProjMarr_slides.pdf" class="image fit"><imgsrc="images/marr_pic.jpg" alt=""></a
+    url: "https://liacapper.github.io/Lia-Capper_CV/CV_Lia-Capper.pdf"
   - label: GitHub
     url: "https://github.com/LiaCapper/Lia-Capper_CV"
   - label: Email
