@@ -1,6 +1,6 @@
 ---
 title: "Lia Capper"
-image: "lia.jpg"
+image: "Lia_1.jpg"
 links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/lia-c-3925a4141/"
