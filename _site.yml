@@ -4,7 +4,7 @@ description: |
   Curriculum Vitae for Lia Capper
 output_dir: "."
 navbar:
-  right:
+right:
     - text: "Home"
       href: index.html
     - text: "About"
