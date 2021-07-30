@@ -5,7 +5,7 @@ links:
   - label: LinkedIn
     url: "https://www.linkedin.com/in/lia-c-3925a4141/"
   - label: Curriculum Vitae
-    url: "/ProjMarr_slides.pdf" class="image fit"><img src="images/marr_pic.jpg" alt=""></a
+    url: /ProjMarr_slides.pdf" class="image fit"><imgsrc="images/marr_pic.jpg" alt=""></a
   - label: GitHub
     url: "https://github.com/LiaCapper/Lia-Capper_CV"
   - label: Email
@@ -40,7 +40,7 @@ Ambitious student working to complete a Bachelor of Science with Honours at the 
 * Fast learner.
 * Works well in a team, with strong leadership skills when needed.
 * Decision making skills.
-* Currently hold a full New Zealand drivers license and own a car.
+* Currently hold a full New Zealand drivers licence and own a car.
 
 ---
 
